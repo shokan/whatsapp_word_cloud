@@ -1,0 +1,142 @@
+alya
+Stock proposal registration which is referred as Work Order (WO), generation of PR based on equipment criticality, frequency of usage to keep available materials at stock, cycle count/physical check, materials minimum and maximum (min/max) level control, slow and non-moving items analysis identifying obsolete items in coordination with SME, losses and gains analysis, OSUD write offs, receipts and materials usage tracking.  
+
+Technical engineers, materials management team representatives.  
+Engineering department issue requisitions with short required on site date. 
+
+User department does not search the materials description which is coded in ERP system and just put  poor description without technical specification, which create additional clarification, communication
+Coding and inventory teams should be merged, since responsibility of coding team duplicates inventory job which create waste of time and people  
+
+It is based on usage, its frequency, seasonality, lead time of materials which is based on previous delivery dates and criticality identified by user department. 
+Urgent requests are processed on the exception as unexpected failure of the critical equipment and PO is being created without PR, based on requests. 
+Excess of materials at company facility are exist. As the company started production in 2016, most of materials are not sold or written off and stored till their usage or sending list of exceeds to Asset Recovery Team, which is different department of company shall find potential buyers and sale them if possible.
+They must be written off, then Asset Recovery Team takes care of its further selling or utilization. The procedure about utilization is still under development and not approved. 
+Coding of materials in SAP ERP system and standardization description
+End user department, Inventory, Procurement, Expediting
+Communication problems where engineers respond long time for request to provide details of materials description, which hold creation of materials code in system
+
+Provide workshops how materials search can be done by description in ERP system, to avoid the doing the same work and re-check all new materials creation requests before uploading to the system.
+Through ERP  SAP system, internet source, supplies’ online catalogues
+Approximately 30 minutes in case of all description is available.
+Approximately 10 items per day and 50 per week
+Building strong team by implementation of C&P standards and alignment with Company processes in order to provide the procurement of goods through proactive analytical processes and regular follow-up. Procurement team mostly deal with Production Operations department to fulfil their spares, materials and assets requirement.
+
+Key stakeholders in the procurement process can be categorized into 2 types:
+
+	Internal: Production Operations department represented by various disciplines: Rotating, Mechanical, etc. and by various locations: Onshore, Offshore. Freight Forwarding and Customs Clearance, Accounts Payable, Legal, Audit, Facilities Management and others.
+	External: 1. Contracting Companies and Vendors. Government Authority which approves the high value contracts 
+
+Lack of technical data and specifications of materials, sometimes bill of materials is based on information dated 5-10 years, which are obsolete. 
+
+Processes are not automated such as automotive sending of approved PO to suppliers. 
+
+Contract Terms and Conditions are complex and  not attractive to the suppliers
+
+Long terms contracts for commodity items and consumables should be placed, but engineering department did not provide bill of materials, which hold the process of long term contract placement.
+
+Description of materials are poor and require additional clarification from engineers’ before the tender issue. 
+International vendors who are not aware about company and Kazakhstan are not willing to work with post USSR country indicated as high-risk country which indicated credibility issue.
+Expediting the purchase orders, ensure on time delivery of goods. 
+Key stakeholders in the procurement process can be categorized into 2 types:
+
+	Internal: Procurement and warehouse teams
+	External: third party logistics companies who are responsible for foreign PO deliveries, customs clearance team. 
+
+Procurement department does not consider the transportation methods, since sometimes delivery of item can cost more, than item itself. Based on urgency, expediting team decides if those goods to be delivered by air freight, if yes, it increase the delivery cost and Contract/PO amendment is required.
+If material is urgently required than delivery in PO, expediting team making pressure to supplier, who can increase cost for the urgency and PO amendment is needed
+Republic of Kazakhstan customs regulations is strict and time consuming:  
+•	if goods is not under non-tariff regulation, it takes 2 month for registration of goods and it cannot be customs cleared
+•	98% of materials delivered require certification which take up to 5 days.  
+•	Inspection of goods by customs and inspectors take up to 3 weeks
+
+External factors can affect to delivery such as: Suppliers facility closure during summer and Christmas times, natural disasters, road accidents, political issues such as sanctions to bordering countries can hold delivery process, since exporting country requires end user statement/confirmation that the goods will be used only in RoK and it gets around 1.5 weeks to fill the final form by end user. 
+
+All above timeframe should be considered during the Contract/PO placement since it affects to delivery KPI.
+
+	End user should check correct specification before generation if WO, since materials with incorrect description are not accepted by warehouse. 
+	Better planning of material required on site date, considering SCM activities
+	Improvement of communication between the procurement and engineering teams, since prompt response is required about material description in order to deliver the goods, custom clearance. 
+	Place more Delivery Duty Paid (DDP) contracts, where contractor delivers till company warehouse and responsible for all customs clearance, transportation expenses
+
+The main reasons of delivery delays are:
+	External factors described in answer 4
+	Mismatch between description of goods and actual goods. 
+	Difficulty to work with Strategic suppliers as monopolist, delays in reply or ignorance at expediting stage. 
+
+
+Suppliers expediting are divided into 2 categories:
+
+	DDP suppliers – check only certifications and on time delivery
+	Free Career (FCA) suppliers, contractor arranges pre-carriage from company’s depot to the named place and seller is responsible for export clearance (ref https://www.incotermsexplained.com/the-incoterms-rules/the-eleven-rules-in-brief/free-carrier/). Expeditor should identify the transportation methods. 
+Contractors who supplied several times know the requirements, if new suppliers, expeditors send the shipping guideline and send ready examples. 
+
+Receipt of materials from suppliers, quality check of delivered goods and documentation and certification as Certificate of Conformity, Test and manufacturing certificates check in compliance with PO.
+Warehouse specialists also inspect the stored goods, if chemical materials– request for inspection is issued to end users or confirmation is required about further extension of storage or disposal disposed or prolonged. Also, preservation of materials is required once per year where four people are involved
+Key stakeholders in the procurement process can be categorized into 2 types:
+
+	Internal: Procurement, Expediting and User department teams
+	External: Suppliers, Third Party Logistics company
+If goods are delivered with mismatch in description OSUD report to be issued and engineering department need confirm technical specification of goods, however, communication and approval process takes 1-2 weeks. 
+Without closure of OSUD delivered materials cannot be released and put into quarantine up to one month. 
+Suppliers do not identify the line items of delivered goods in accordance with PO and in case of delivery of big volume of materials, it is difficult to identify the goods.  
+End users orders more than real demand which create additional stock and can be stored sometimes up to 5 years.
+Company has three warehouse: Karabatan, Bautino and Offhore warehouse and when materials are not available in one of the warehouses, company send from one warehouse to other, which creates transportation wastes. 
+	Suppliers should inform company about changes or mismatch in materials description before Contract/ PO placement.  
+	Engineer’s need to do better planning 
+	OSUD usually issued for goods delivered on FCA. 
+	Goods sometimes are damaged during the transportation, especially road transportation. 
+Damaged 24 items from 20, 000 offshore in accordance with statistics in 2017. 
+18 overage, 12 shortage in accordance with statistics in 2017. 
+Overage accepted with “Zero” value and included to company inventory.  
+Company has own packing instructions to suppliers. Repacking is done during the combination of several goods into one package and sent to offshore to Island. 
+Based on ABC analyse. 
+30-40 line items received per day, depending from seasonality, shutdown, and weekends.
+KPI for receipt 2 days
+Issue 2 days.
+Quality check 3 days 
+Engineers make mistakes in items description when actual delivery is made, supplied items is not acceptable.  
+Depending from PO transportation mode
+DDP – Local suppliers pick up from warehouse
+FCA - in case of incorrect materials delivery, suppliers do not arrange the item pick up, due to the reverse delivery, due to the customs regulations and leave with company
+Use again for offshore packing, 
+Non-reusable – utilize based on type 
+
+Analyses the CP Processes and Procedures based on the governance documents (North Caspian Sea Production Sharing Agreement (NCSPSA) Tender Procedures, Manual of Authority) and feedback from the stakeholders both within CP family and Businesses (3600), and based on findings from internal and external audits. Following review we make recommendations on improvements to the processes, procedures, tools (forms and templates) and implement through revisions (duly communicated).
+
+	C&P family including Contracts Engineers and MM team members
+	Business - Contract Owners, Contract Holders, Contract Holder Support staff 
+	Subject Matter Expert Units (SMEs).
+	Management
+	Auditors
+Contract cycle time 
+
+Variance in competency levels which require approval level
+Tender procedures are same for projects CAPEX and OPEX stage, when procedural requirements of procedure can hold the process of procurement. 
+There is not electronic solution for high value PO. 
+
+	Operation Excellence undertakes initiatives in process improvement by implementation of automated approval workflows aimed to reduce paperwork and time for collecting manual signatures; eProcurement is being enhanced to cover E2E CP Process for all values.
+	Started to conduct specific in-house C&P trainings focusing on the NCOC CP Process thus targeting to achieve fit-for-purpose competencies improvement within time
+	
+Preparation of the effective strategy for procurement is the key aspect which impacts on the timing and in itself time consuming exercise. In the procurement of materials delivery is the time consuming element in the SCM.
+	Avoidable inconsistencies in contract filing
+	Low focus by Contract Holders to proper records keeping during post-award contract management (miss to apply forms, miss to issue written instructions etc)
+Yes, included to contract T&C
+Yes , under development. 
+CP effectiveness survey is being conducted to receive feedback from all the end users
+In terms of suppliers, End user can provide feedback to the Vendor database system about performance of supplier, however, some of the end users ignore it or do not know. 
+
+Revisions are made once in two years. To create and approve new procedures takes up to  3- 4 months and for the revision 1-2 months 
+
+Lack of communication with end users and long waiting time for response, when technical clarifications issued during the evaluation of tender proposals
+
+High value PO require high level approval and presentation to contracts board, which hold the process. 
+
+During the selection of supplier, procurement department make a preference to low cost suppliers, than fast delivery. If the supplier with faster delivery is chosen, but with higher price, procurement should justify to audit how this decision was made, which time consuming process.
+Provide quarterly workshops to engineering department to explain what processes are time consuming and on time response is required, simplify the terms and conditions and contract approval process. 
+ Via Market research exercises; by listing Vendor Database of the Company depending on the scope. Those indicated as qualified can be re-checked via request for information survey.
+Prior to placing contract proper tendering process is followed. Pre-selection of the suppliers is done by Vendor Qualification team and furthermore can be exercised by Expression of Interest or Request for Information. Evaluation steps are captured in the Tender Evaluation plan, where all criteria’s on different aspects are provided: technical; HSSE; local content based on appliance. Once contract / PO placed Suppliers are evaluated based on their performance. However, priority is given to lowest price and short lead time.
+Once Contract/PO is placed, both Contractor and the Company create Contract Management Plan to indicate future path of Contract execution steps – this is applicable for strategic contractors. 
+Meeting with Suppliers, being in touch with them plays an important role, however company employees should follow Company Ethics and Compliance programme in order to behave properly.
+ Few, but not to all commodity items. 
+RFQ or tender running process takes up to 3 months including technical and commercial evaluation, PO creation in ERP system depending on complexity of materials and approval level. 
+
